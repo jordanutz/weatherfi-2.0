@@ -11,6 +11,7 @@
 - ReactJS (Context & Hooks)
 - Sass
 - Ant Design
+- Axios
 - Weather API 
 
 ## Live Demo
