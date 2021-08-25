@@ -8,7 +8,7 @@
 
 ## Toolbox
 
-- ReactJS (Context & Hooks)
+- React (Context & Hooks)
 - Sass
 - Ant Design
 - Axios
